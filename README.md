@@ -28,10 +28,10 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos pessoai
 
 <div >
  <a href="https://github.com/RafaelMotaAlvess/Gympass-APP">
-  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelMotaAlvess&repo=Gympass-APP&theme=aura_dark" />
+  <img align="center"  height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelMotaAlvess&repo=Gympass-APP&theme=aura_dark" />
 </a>
 <a href="https://github.com/DanielAraldi/mailer">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAraldi&repo=mailer&theme=aura_dark" />
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAraldi&repo=mailer&theme=aura_dark" />
 </a>
 
 </div>
