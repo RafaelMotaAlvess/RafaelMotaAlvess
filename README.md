@@ -26,12 +26,12 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos pessoai
 
 ## Meus repositórios favoritos 🌟
 
-<div align="center">
+<div >
  <a href="https://github.com/RafaelMotaAlvess/Gympass-APP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelMotaAlvess&repo=Gympass-APP&theme=aura_dark&hide_border=true" />
+  <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=RafaelMotaAlvess&repo=Gympass-APP&theme=aura_dark" />
 </a>
 <a href="https://github.com/DanielAraldi/mailer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAraldi&repo=mailer&theme=aura_dark&hide_border=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=DanielAraldi&repo=mailer&theme=aura_dark" />
 </a>
 
 </div>
