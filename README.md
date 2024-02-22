@@ -6,7 +6,7 @@ e mergulhando profundamente no mundo da programação há cerca de um ano.
 
 Estou constantemente aprimorando minhas habilidades por meio de projetos pessoais que enriquecem meu portfólio e demonstram minha paixão por sempre estar me desenvolvendo. Se quiser saber mais sobre mim, sinta-se à vontade para conferir meu perfil no [LinkedIn](https://www.linkedin.com/in/rafaelmotaalves/) ❤️
 
-## 🌌 Minha Stack, só as habilidades bala do pai 😎
+## 🌌 Minha Stack
 
 [![Minha Stack](https://skillicons.dev/icons?i=ts,js,nodejs,prisma,postgres,sqlite,docker,postman,vitest)](https://skillicons.dev)
 
