@@ -1,4 +1,4 @@
-<img align="right" height="680em" src="./.github/images/headergif.gif"/>
+<img align="right" height="500em" src="./.github/images/headergif.gif"/>
 <h1 align="left">Bem-vindo ao meu perfil! 👋🏼✨</h1>
 
 Olá! Eu sou Rafael Mota Alves, um entusiasta do desenvolvimento Backend. Atualmente, estou cursando Ciência da Computação na [Univali](https://www.univali.br/) 
