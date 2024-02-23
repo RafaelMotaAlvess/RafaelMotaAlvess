@@ -10,7 +10,7 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos pessoai
 
 ## 🌌 Minha Stack
 
-[![Minha Stack](https://skillicons.dev/icons?i=ts,js,nodejs,prisma,postgres,sqlite,docker,postman,vitest)](https://skillicons.dev)
+[![Minha Stack](https://skillicons.dev/icons?i=ts,js,java,nodejs,prisma,postgres,sqlite,docker,postman,vitest)](https://skillicons.dev)
 
 ## 💫 Outras skills
 
