@@ -14,7 +14,7 @@ Estou constantemente aprimorando minhas habilidades por meio de projetos pessoai
 
 ## 💫 Outras skills
 
-[![Outras skills](https://skillicons.dev/icons?i=python,c,cpp,git,github,electron,firebase,mysql,vscode)](https://skillicons.dev)
+[![Outras skills](https://skillicons.dev/icons?i=python,c,cpp,git,github,express,electron,firebase,mysql,vscode)](https://skillicons.dev)
           
 ## Meus status para os curiosos 👀
 
